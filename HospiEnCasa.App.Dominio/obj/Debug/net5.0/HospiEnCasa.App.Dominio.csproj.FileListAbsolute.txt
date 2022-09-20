@@ -1,0 +1,12 @@
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.deps.json
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.dll
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\ref\HospiEnCasa.App.Dominio.dll
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.dll
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\ref\HospiEnCasa.App.Dominio.dll
+D:\PROGRAMACIÓN\CICLO 3\VISUAL\R-G44\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
