@@ -14,6 +14,7 @@ namespace HospiEnCasa.App.Consola
 
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Hola Github");
             bool control = true;
             while (control)
             {
